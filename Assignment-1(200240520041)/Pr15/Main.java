@@ -28,5 +28,7 @@ class Main{
                 System.out.println("Not Eligible for marriege");
            }
        }
+
+       //here code is running well
     }
 }
